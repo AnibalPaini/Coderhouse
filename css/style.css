@@ -153,6 +153,10 @@ footer .iconos a{
 footer .iconos a:hover{
     color: black;
 }
+
+.mt-6{
+    margin-top: 180px;
+}
 /*FIN FOOTER*/
 
 /*PRODUCTOS*/
@@ -254,6 +258,7 @@ footer .iconos a:hover{
 .input__correo{
     grid-column:span 2;
 }
+/*
 .entrada input{
     width: 100%;
     padding: 10px;
@@ -283,7 +288,7 @@ footer .iconos a:hover{
 
 .input__boton input:hover {
     background-color: #5a4cad;
-}
+}*/
 /*FIN CONTACTO*/
 
 
